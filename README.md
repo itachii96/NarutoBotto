@@ -11,9 +11,9 @@
 
 - Version 1.0
 
-Vedio Tutorial "How To Download it" "**YOU CAN DOWNLOAD IT FROM HERE**"
+Vedio Tutorial "How To Download it" "**YOU CAN DOWNLOAD IT FROM HERE [[Download]](/NarutoBottoSetup.exe)**"
 
-[![Alt Text]([thumbnail_image](https://i.pinimg.com/736x/d6/16/41/d61641a052ebbabe15f843e306aa8472.jpg))](https://cdn.discordapp.com/attachments/1127234099170529320/1127299978176507904/07081.mp4)
+[[tutorial vedio]](/0708.mp4)
 
 
 
