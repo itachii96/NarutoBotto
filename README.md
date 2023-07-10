@@ -1,4 +1,5 @@
 # NarutoBotto
+[[Discord Server]](https://discord.gg/RNWpnhtZu8)
 
 [!] This app was created to play NarutoBotto game automatically 
 
