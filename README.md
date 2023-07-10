@@ -13,10 +13,7 @@
 
 Vedio Tutorial "How To Download it" "**YOU CAN DOWNLOAD IT FROM HERE**"
 
-<video width="320" height="240" controls>
-  <source src="07081.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Alt Text]([thumbnail_image](https://i.pinimg.com/736x/d6/16/41/d61641a052ebbabe15f843e306aa8472.jpg))](https://cdn.discordapp.com/attachments/1127234099170529320/1127299978176507904/07081.mp4)
 
 
 
